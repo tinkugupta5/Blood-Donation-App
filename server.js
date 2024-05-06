@@ -11,12 +11,12 @@ app.get('/', (req, res) => {
 })
 
 // http://localhost:8080
-
 //port
 const PORT = 8080
-
 // listen
 
 app.listen(PORT, () => {
+
+    console.log('Node Server Running');
 
 })
