@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
         message: 'Welcome to bloodddd bank app'
     })
 })
-
 // http://localhost:8080
 //port
 const PORT = 8080
