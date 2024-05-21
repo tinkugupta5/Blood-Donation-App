@@ -6,7 +6,7 @@ const app = express();
 //routes
 app.get('/', (req, res) => {
     res.status(200).json({
-        message: 'Welcome to blood bank app'
+        message: 'Welcome To Blood Bank App'
     })
 })
 // http://localhost:8080
